@@ -1,2 +1,3 @@
-# Online-Web-Store-6th
+# 6th LN
+
 Light Novel Store
